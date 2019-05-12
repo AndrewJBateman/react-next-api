@@ -12,6 +12,7 @@ const Index = (props) => (
   </Layout>
 );
 
+// async await function to get crypto currency prices - no API key required. 
 Index.getInitialProps = async function() {
   const res = await fetch
 	('https://api.coindesk.com/v1/bpi/currentprice.json');
