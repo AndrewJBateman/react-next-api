@@ -1,6 +1,6 @@
 # React Next API
 
-Creates a Bitcoin currency price api app using React and Next.js.
+Creates a Bitcoin currency price api app using React and Next.js. npm dependencies updated.
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -27,11 +27,11 @@ Creates a Bitcoin currency price api app using React and Next.js.
 
 ## Technologies
 
-* [Node.js v10.15.3](https://nodejs.org/) javascript runtime using the [Chrome V8 engine](https://v8.dev/).
+* [Node.js v12.3.1](https://nodejs.org/) javascript runtime using the [Chrome V8 engine](https://v8.dev/).
 
-* [React v16.8.6](https://reactjs.org/) Javascript library.
+* [React v16.10.2](https://reactjs.org/) Javascript library.
 
-* [Next v8.1.0](https://nextjs.org/) minimalist framework for rendering reacy apps on the server.
+* [Next v9.1.1](https://nextjs.org/) minimalist framework for rendering react apps on the server.
 
 ## Setup
 
@@ -60,9 +60,9 @@ Index.getInitialProps = async function() {
 
 ## Status & To-Do List
 
-* Status: simple working app that gets API data.
+* Status oct 2019: simple working app that gets API data.
 
-* To-Do: add functionality - turn into a mobile app?
+* To-Do: nothing.
 
 ## Inspiration
 
