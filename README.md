@@ -1,10 +1,10 @@
-# React Next API
+# :zap: React Next API
 
-Creates a Bitcoin currency price api app using React and Next.js. npm dependencies updated.
+* Creates a Bitcoin currency price api app using React and Next.js. npm dependencies updated.
 
 *** Note: to open web links in a new window use: _ctrl+click on link_**
 
-## Table of contents
+## :page_facing_up: Table of contents
 
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -15,31 +15,27 @@ Creates a Bitcoin currency price api app using React and Next.js. npm dependenci
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
+## :books: General info
 
 * Lists prices of cryptocurrencies, depending on setup of API http request.
-
 * Next.js is for server-rendered react apps. It has automatic code splitting, simple page-based routing, built-in CSS support and hot reloading.
 
-## Screenshots
+## :camera: Screenshots
 
 ![Example screenshot](./img/API-data.png).
 
-## Technologies
+## :signal_strength: Technologies
 
-* [Node.js v12.3.1](https://nodejs.org/) javascript runtime using the [Chrome V8 engine](https://v8.dev/).
+* [Node.js v12](https://nodejs.org/) javascript runtime using the [Chrome V8 engine](https://v8.dev/).
+* [React v16](https://reactjs.org/) Javascript library.
+* [Next v9](https://nextjs.org/) minimalist framework for rendering react apps on the server.
 
-* [React v16.10.2](https://reactjs.org/) Javascript library.
-
-* [Next v9.1.1](https://nextjs.org/) minimalist framework for rendering react apps on the server.
-
-## Setup
+## :floppy_disk: Setup
 
 * `npm run dev` runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 * `npm run build` Builds the app for production to the `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes.
 
-## Code Examples
+## :computer: Code Examples
 
 * extract of `index.js` - function to get API data.
 
@@ -58,18 +54,16 @@ Index.getInitialProps = async function() {
 
 ```
 
-## Status & To-Do List
+## :clipboard: Status & To-Do List
 
 * Status oct 2019: simple working app that gets API data.
-
 * To-Do: nothing.
 
-## Inspiration
+## :clap: Inspiration
 
 * [Traversy Media: Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U&t=1s)
-
 * [CoinDesk Bitcoin Price Index API](https://www.coindesk.com/api)
 
-## Contact
+## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
