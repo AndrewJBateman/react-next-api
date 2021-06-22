@@ -1,8 +1,12 @@
 # :zap: React Next API
 
 * Creates a Bitcoin currency price api app using React and Next.js. npm dependencies updated.
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/react-next-api?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/react-next-api?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/react-next-api?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/react-next-api?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -56,7 +60,7 @@ Index.getInitialProps = async function() {
 
 ## :clipboard: Status & To-Do List
 
-* Status oct 2019: simple working app that gets API data.
+* Status: Working.
 * To-Do: nothing.
 
 ## :clap: Inspiration
@@ -64,6 +68,10 @@ Index.getInitialProps = async function() {
 * [Traversy Media: Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U&t=1s)
 * [CoinDesk Bitcoin Price Index API](https://www.coindesk.com/api)
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
